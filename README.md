@@ -16,5 +16,5 @@ View code
 
 -[calculate.sh](calculate.sh): This script defines functions for basic arithmetic operations: multiply, add, and subtract. It performs addition and multiplication on two input numbers and displays the results.
 
-
+![output](Lab13Picture1.png)
 
